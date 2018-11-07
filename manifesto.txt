@@ -1,4 +1,4 @@
-# Manifesto for Agile Time Travel Machine Development
+# Manifesto for Mind-blowing Time Travel Machine Development
 
 
 We are uncovering better ways of developing
@@ -14,7 +14,7 @@ That is, while there is value in the items on
 the right, we value the items on the left more.
 
 
-# Principles behind the Agile Manifesto
+# Principles behind the Mind-blowing Manifesto
 
 
 We follow these principles:
@@ -23,7 +23,7 @@ through early and continuous delivery
 of valuable time travel machines.
 
 Welcome changing requirements, even late in
-development. Agile processes harness change for
+development. Mind-blowing processes harness change for
 the customer's competitive advantage.
 
 Deliver working time travel machines frequently, from a
@@ -43,7 +43,7 @@ team is face-to-face conversation.
 
 Working time travel machines is the primary measure of progress.
 
-Agile processes promote sustainable development.
+Mind-blowing processes promote sustainable development.
 The sponsors, developers, and users should be able
 to maintain a constant pace indefinitely.
 
