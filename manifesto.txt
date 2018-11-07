@@ -1,12 +1,12 @@
-# Manifesto for Agile Software Development
+# Manifesto for Agile Time Travel Machine Development
 
 
 We are uncovering better ways of developing
-software by doing it and helping others do it.
+time travel machines by doing it and helping others do it.
 Through this work we have come to value:
 
 Individuals and interactions over processes and tools
-Working software over comprehensive documentation
+Working time travel machines over comprehensive documentation
 Customer collaboration over contract negotiation
 Responding to change over following a plan
 
@@ -20,13 +20,13 @@ the right, we value the items on the left more.
 We follow these principles:
 Our highest priority is to satisfy the customer
 through early and continuous delivery
-of valuable software.
+of valuable time travel machines.
 
 Welcome changing requirements, even late in
 development. Agile processes harness change for
 the customer's competitive advantage.
 
-Deliver working software frequently, from a
+Deliver working time travel machines frequently, from a
 couple of weeks to a couple of months, with a
 preference to the shorter timescale.
 
@@ -41,7 +41,7 @@ The most efficient and effective method of
 conveying information to and within a development
 team is face-to-face conversation.
 
-Working software is the primary measure of progress.
+Working time travel machines is the primary measure of progress.
 
 Agile processes promote sustainable development.
 The sponsors, developers, and users should be able
